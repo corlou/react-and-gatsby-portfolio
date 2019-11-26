@@ -1,32 +1,18 @@
 ---
-title: "Code Example"
+title: "London, England"
 date: "2019-06-06"
 draft: false
-path: "/blog/code-example"
+path: "/blog/london"
 ---
 
-## An Code example with PrismJS
-Gatsby-Starter-Julia uses the Atom Editor Theme.
+A day in London
 
-```js
-console.log("Hello World");
-```
+<h5>Date: 30th Jan 2016</h5>
 
-## Default NodeJS server
+<p>
+  Dan and I spent the day walking around London and absorbing the fact that we are actually here. It’s crowded but I was feeling inspired with the amount of theatre shows going on. I made plans to go and see a show at The Globe Theatre but at this stage in my life, it was more of an intention to go.
+</p>
 
-```js
-const http = require('http');
-
-const hostname = '127.0.0.1';
-const port = 3000;
-
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World\n');
-});
-
-server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
-});
-```
+<p>
+  However, later in the year, I put my foot down and booked a ticket to “Macbeth”. Brilliant show full of costumes and impressive props. My seat was last minute and I could only see part of what was happening but I still crossed it off my list of things to do.
+</p>

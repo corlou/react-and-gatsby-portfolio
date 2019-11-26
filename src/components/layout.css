@@ -66,7 +66,7 @@ h1 {
   margin: 0.67em 0;
 }
 mark {
-  background-color: #ff0;
+  background-color: #7f337e;
   color: #000;
 }
 small {
@@ -208,6 +208,9 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
+}
+.text-color {
+  color: #7f337e;
 }
 img {
   max-width: 100%;
