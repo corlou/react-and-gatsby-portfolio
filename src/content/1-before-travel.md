@@ -5,6 +5,8 @@ draft: false
 path: "/blog/before-travel"
 ---
 
+![favicon-test](../images/favicon.png)
+
 Here are some tips before you go on your European adventure.
 
 <h3 class="text-color">Find out whether you need a visa</h3>
@@ -49,5 +51,6 @@ Here are some tips before you go on your European adventure.
 
 <br>
 
-<img>
-</img>
+|                                         |                                       |                                     |
+| :-------------------------------------: | :-----------------------------------: | :---------------------------------: |
+| ![backpack](../images/1_a_backpack.jpg) | ![charger](../images/1_a_charger.jpg) | ![charger](../images/1_a_shoes.jpg) |

@@ -1,9 +1,11 @@
 ---
 title: "Ireland"
-date: "2019-06-06"
+date: "2016-03-10"
 draft: false
 path: "/blog/ireland"
 ---
+
+A weekend in Ireland and the missed flight
 
 <h5>Date: 08-10 April 2016</h5>
 
@@ -26,20 +28,5 @@ path: "/blog/ireland"
 <p>
   At the end of the tour you get a pint Guinness with a 360 degree view of Dublin. It was crowded so we finished up and wandered the streets as the sun was setting before heading back to the hotel and then home again to Sevenoaks.
 </p>
-
-<br>
-
-<!-- IMAGES -->
-<div class="row">
-  <div class="col-xs-4">
-    <img class="img list" src="/img/blog/3_ireland1.jpg"> 
-  </div>
-  <div class="col-xs-4">
-    <img class="img list" src="/img/blog/3_ireland2.jpg"> 
-  </div>
-  <div class="col-xs-4">
-    <img class="img list" src="/img/blog/3_ireland3.jpg"> 
-  </div>
-</div>
 
 <br>

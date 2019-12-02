@@ -1,6 +1,6 @@
 ---
 title: "London, England"
-date: "2019-06-06"
+date: "2016-01-30"
 draft: false
 path: "/blog/london"
 ---
@@ -14,5 +14,5 @@ A day in London
 </p>
 
 <p>
-  However, later in the year, I put my foot down and booked a ticket to “Macbeth”. Brilliant show full of costumes and impressive props. My seat was last minute and I could only see part of what was happening but I still crossed it off my list of things to do.
+  However, later in the year, I put my foot down and booked a ticket to “Macbeth”. Brilliant show full of costumes, impressive props, and great characters. My seat was last minute and I could only see part of what was happening but I still crossed it off my list of things to do.
 </p>

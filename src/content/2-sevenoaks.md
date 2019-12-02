@@ -5,8 +5,6 @@ draft: false
 path: "/blog/sevenoaks"
 ---
 
-Teaching in the UK
-
 <h5>Date: 30 December 2015 – 26 October 2016</h5>
 
 <p>
@@ -22,7 +20,7 @@ Teaching in the UK
 </p>
 
 <p>
-    Dan still had his IT contracts in Australia so he shifted over to working nights while I worked during the day. It was a bit of a challenge but we made it work. First touristy thing we did was go to Knole House. There is a lot of deer running around but don’t feed them, just appreciate them.
+    Dan still had his IT contracts in Australia so he shifted over to working nights while I worked during the day. It was a bit of a challenge but we made it work. First touristy thing we did was go to Knole House. There's a lot of deer running around but don’t feed them, just appreciate them.
 </p>
 
 <p>
